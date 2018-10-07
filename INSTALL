@@ -1,0 +1,9 @@
+Building Icarus
+
+See doc/readme-qt.rst for instructions on building Icarus QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Icarus.
+
+See doc/build-*.txt for instructions on building icarusd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Icarus.
